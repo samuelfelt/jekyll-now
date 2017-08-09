@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is my personal website. It's hosted on Github pages and and I used [this tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) with light customizations.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Use any of the icons at the bottom to contact me.
