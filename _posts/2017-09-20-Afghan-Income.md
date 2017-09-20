@@ -9,7 +9,7 @@ They provide a CSV of most countries income per capita by decile over time. I wa
 
 I plotted the Afghan data in CSV using Python and was surprised by the result.
 
-![Afghanistan]({{ site.baseurl }}/images/20180920Afghanistan.png)
+![Afghanistan]({{ site.baseurl }}/images/20170920Afghanistan.png)
 
 I expected to see an impact after 2001, but incomes rose since the late 90s and the U.S. invasion appeared to have no effect. The growth in incomes was relatively equal as well. Inequality rose slower than in neighboring countries.
 
@@ -20,9 +20,12 @@ Noticeably, incomes, especially among the riches, crashed around the time of the
 ## Other Countries
 To make sure this was truly an outlier, I also plotted neighboring countries who were included in the data set.
 
-![Pakistan]({{ site.baseurl }}/images/20180920Pakistan.png)
-![Turkmenistan]({{ site.baseurl }}/images/20180920Turkmenistan.png)
-![Uzbekistan]({{ site.baseurl }}/images/20180920Uzbekistan.png)
+![Pakistan]({{ site.baseurl }}/images/20170920Pakistan.png)
+
+![Turkmenistan]({{ site.baseurl }}/images/20170920Turkmenistan.png)
+
+![Uzbekistan]({{ site.baseurl }}/images/20170920Uzbekistan.png)
+
 
 ## Do it yourself
 The code and CSV are found [here](https://github.com/samuelfelt/Global-Incomes-Plot). You'll need pandas and Bokeh in order for the Python code to work.
